@@ -27,6 +27,7 @@ To get started with this project, follow these steps:
 7. Monitor the output of your ESP32 by running: idf.py monitor
 
 ### output:
+![2led](https://github.com/Embedded-systems-using-RTOS/2LED_TASKS/assets/96942247/040947a1-994e-4e72-8613-d9b8dceff6f4)
 
 
 This will display the log messages and allow you to observe the 2 LED blinking on your ESP32.
